@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DavidZap
-- 👀 I’m interested in data analyst
+- 👀 I’m interested in Data Analytics
 
 
 <!---
